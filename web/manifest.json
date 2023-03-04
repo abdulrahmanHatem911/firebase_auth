@@ -1,6 +1,6 @@
 {
-    "name": "firebase_auth",
-    "short_name": "firebase_auth",
+    "name": "firebase_app_auth",
+    "short_name": "firebase_app_auth",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
